@@ -1,0 +1,1 @@
+# The coral reef model was a simulation for the Mo'orea coral reef that showed realistic patterns. For the model, each turn represented two years which spanned from the year 2004 to 2024. There were three events that impacted the coral reef significantly, which were the crown thorn, the cyclone, and the heat wave.
