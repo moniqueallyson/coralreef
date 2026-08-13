@@ -1,3 +1,4 @@
+source("R/util.R")
 set.seed(221)
 
 # STEP 1: Initialize your reef
